@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DushyantQA
+- 👋 Hi, I’m 
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on 
